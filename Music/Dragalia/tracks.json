@@ -38,7 +38,7 @@
       { "title": "Dawn Song",                                       "file": "Dragalia/SongCollection_Album/Disk1/02 Dawn Song.opus" },
       { "title": "Force your way",                                  "file": "Dragalia/SongCollection_Album/Disk1/03 Force your way.opus" },
       { "title": "Bon Fever",                                       "file": "Dragalia/SongCollection_Album/Disk1/04 Bon Fever.opus" },
-      { "title": "Stealth Dance",                                   "file": "Dragalia/SongCollection_Album/Disk1/05 ステルスダンス.opus" },
+      { "title": "ステルスダンス",                                   "file": "Dragalia/SongCollection_Album/Disk1/05 ステルスダンス.opus" },
       { "title": "CHECKMATE",                                       "file": "Dragalia/SongCollection_Album/Disk1/06 CHECKMATE.opus" },
       { "title": "case i",                                          "file": "Dragalia/SongCollection_Album/Disk1/07 case i.opus" },
       { "title": "We Are The Lights",                               "file": "Dragalia/SongCollection_Album/Disk1/08 We Are The Lights.opus" },
@@ -50,6 +50,28 @@
       { "title": "Hollow Dance",                                    "file": "Dragalia/SongCollection_Album/Disk1/14 Hollow Dance.opus" },
       { "title": "Because of You",                                  "file": "Dragalia/SongCollection_Album/Disk1/15 Because of You.opus" },
       { "title": "Sample Answer",                                   "file": "Dragalia/SongCollection_Album/Disk1/16 Sample Answer.opus" }
+    ]
+  },
+  {
+    "album": "Lost Album",
+    "cover": "Dragalia/Lost_Album/cover.webp",
+    "background": "Dragalia/Lost_Album/bg.webp",
+    "tracks": [
+      { "title": "Unique",                                   "file": "Dragalia/Lost_Album/Unique.opus" },
+      { "title": "Promise of Blue",                                   "file": "Dragalia/Lost_Album/Promise_of_Blue.opus" },
+      { "title": "Eat Sleep Escape",                                   "file": "Dragalia/Lost_Album/Eat_Sleep_Escape.opus" },
+      { "title": "Into my Soul",                                   "file": "Dragalia/Lost_Album/Into_my_Soul.opus" },
+      { "title": "Light a Fire",                                   "file": "Dragalia/Lost_Album/Light_a_Fire.opus" },
+      { "title": "Caranival",                                   "file": "Dragalia/Lost_Album/Caranival.opus" },
+      { "title": "Arikitari",                                   "file": "Dragalia/Lost_Album/Arikitari.opus" },
+      { "title": "Internal Crash",                                   "file": "Dragalia/Lost_Album/Internal_Crash.opus" },
+      { "title": "It's all fiction",                                   "file": "Dragalia/Lost_Album/It's_all_fiction.opus" },
+      { "title": "Iiwakedaizensyu",                                   "file": "Dragalia/Lost_Album/Iiwakedaizensyu.opus" },
+      { "title": "Destiny",                                   "file": "Dragalia/Lost_Album/Destiny.opus" },
+      { "title": "Truth is Calling",                                   "file": "Dragalia/Lost_Album/Truth_is_Calling.opus" },
+      { "title": "Beginning of the End",                                   "file": "Dragalia/Lost_Album/Beginning_of_the_End.opus" },
+      { "title": "Coda",                                   "file": "Dragalia/Lost_Album/Coda.opus" },
+      { "title": "Words to Give",                                   "file": "Dragalia/Lost_Album/Words_to_Give.opus" }
     ]
   },
   {
