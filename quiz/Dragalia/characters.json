@@ -1,0 +1,2982 @@
+﻿[
+    {
+        "id":  "100001",
+        "name":  "The Prince",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Sword",
+        "rarity":  4,
+        "file":  "100001_01_r04_portrait.webp",
+        "title":  "Dragonblood Prince"
+    },
+    {
+        "id":  "100001",
+        "name":  "Gala Prince",
+        "variant":  "08",
+        "element":  "Light",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "100001_08_r05_portrait.webp",
+        "title":  "Bearer of Dragonlight"
+    },
+    {
+        "id":  "100001",
+        "name":  "Summer Prince",
+        "variant":  "12",
+        "element":  "Shadow",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "100001_12_r05_portrait.webp",
+        "title":  "Prince of Summer"
+    },
+    {
+        "id":  "100001",
+        "name":  "Bondforged Prince",
+        "variant":  "14",
+        "element":  "Wind",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "100001_14_r05_portrait.webp",
+        "title":  "Bondforged Scion"
+    },
+    {
+        "id":  "100002",
+        "name":  "Elisanne",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Lance",
+        "rarity":  4,
+        "file":  "100002_01_r04_portrait.webp",
+        "title":  "Anointed Lance"
+    },
+    {
+        "id":  "100002",
+        "name":  "Halloween Elisanne",
+        "variant":  "02",
+        "element":  "Light",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "100002_02_r05_portrait.webp",
+        "title":  "Vampaladyn"
+    },
+    {
+        "id":  "100002",
+        "name":  "Wedding Elisanne",
+        "variant":  "06",
+        "element":  "Wind",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "100002_06_r05_portrait.webp",
+        "title":  "Battling Bride"
+    },
+    {
+        "id":  "100002",
+        "name":  "Gala Elisanne",
+        "variant":  "13",
+        "element":  "Water",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "100002_13_r05_portrait.webp",
+        "title":  "Godly Guide"
+    },
+    {
+        "id":  "100002",
+        "name":  "Kimono Elisanne",
+        "variant":  "15",
+        "element":  "Flame",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "100002_15_r05_portrait.webp",
+        "title":  "Crimson Paladyn"
+    },
+    {
+        "id":  "100003",
+        "name":  "Ranzal",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Axe",
+        "rarity":  4,
+        "file":  "100003_01_r04_portrait.webp",
+        "title":  "Arc in the Storm"
+    },
+    {
+        "id":  "100003",
+        "name":  "Summer Ranzal",
+        "variant":  "02",
+        "element":  "Water",
+        "weapon":  "Blade",
+        "rarity":  4,
+        "file":  "100003_02_r04_portrait.webp",
+        "title":  "Grillmaster"
+    },
+    {
+        "id":  "100003",
+        "name":  "Gala Ranzal",
+        "variant":  "07",
+        "element":  "Wind",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "100003_07_r05_portrait.webp",
+        "title":  "Seasoned Tactician"
+    },
+    {
+        "id":  "100003",
+        "name":  "Child Ranzal",
+        "variant":  "10",
+        "element":  "Flame",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "100003_10_r05_portrait.webp",
+        "title":  "Childlike Mercenary"
+    },
+    {
+        "id":  "100004",
+        "name":  "Cleo",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Staff",
+        "rarity":  4,
+        "file":  "100004_01_r04_portrait.webp",
+        "title":  "Belle Healer"
+    },
+    {
+        "id":  "100004",
+        "name":  "Dragonyule Cleo",
+        "variant":  "02",
+        "element":  "Water",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "100004_02_r05_portrait.webp",
+        "title":  "Belle Bestower"
+    },
+    {
+        "id":  "100004",
+        "name":  "Summer Cleo",
+        "variant":  "04",
+        "element":  "Light",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "100004_04_r05_portrait.webp",
+        "title":  "Beach Belle"
+    },
+    {
+        "id":  "100004",
+        "name":  "Gala Cleo",
+        "variant":  "10",
+        "element":  "Shadow",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "100004_10_r05_portrait.webp",
+        "title":  "Supreme Sorcerer"
+    },
+    {
+        "id":  "100004",
+        "name":  "Forager Cleo",
+        "variant":  "17",
+        "element":  "Water",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "100004_17_r05_portrait.webp",
+        "title":  "Belle Forager"
+    },
+    {
+        "id":  "100004",
+        "name":  "Yukata Cleo",
+        "variant":  "19",
+        "element":  "Flame",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "100004_19_r05_portrait.webp",
+        "title":  "Festival Belle"
+    },
+    {
+        "id":  "100005",
+        "name":  "Alex",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Dagger",
+        "rarity":  4,
+        "file":  "100005_01_r04_portrait.webp",
+        "title":  "Shadow Assassin"
+    },
+    {
+        "id":  "100005",
+        "name":  "Gala Alex",
+        "variant":  "02",
+        "element":  "Shadow",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "100005_02_r05_portrait.webp",
+        "title":  "Liberated Assassin"
+    },
+    {
+        "id":  "100005",
+        "name":  "Summer Alex",
+        "variant":  "08",
+        "element":  "Flame",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "100005_08_r05_portrait.webp",
+        "title":  "Shimmering Guardian"
+    },
+    {
+        "id":  "100006",
+        "name":  "Luca",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Bow",
+        "rarity":  4,
+        "file":  "100006_01_r04_portrait.webp",
+        "title":  "Woodland Archer"
+    },
+    {
+        "id":  "100006",
+        "name":  "Summer Luca",
+        "variant":  "03",
+        "element":  "Light",
+        "weapon":  "Axe",
+        "rarity":  4,
+        "file":  "100006_03_r04_portrait.webp",
+        "title":  "Prankster in Paradise"
+    },
+    {
+        "id":  "100006",
+        "name":  "Gala Luca",
+        "variant":  "09",
+        "element":  "Light",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "100006_09_r05_portrait.webp",
+        "title":  "Harmony Seeker"
+    },
+    {
+        "id":  "100006",
+        "name":  "Kimono Luca",
+        "variant":  "11",
+        "element":  "Wind",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "100006_11_r05_portrait.webp",
+        "title":  "New Year's Prankster"
+    },
+    {
+        "id":  "100007",
+        "name":  "Gala Notte",
+        "variant":  "07",
+        "element":  "Wind",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "100007_07_r05_portrait.webp",
+        "title":  "Eternal Partner"
+    },
+    {
+        "id":  "100007",
+        "name":  "Kimono Notte",
+        "variant":  "10",
+        "element":  "Light",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "100007_10_r05_portrait.webp",
+        "title":  "Celebrating Cutie"
+    },
+    {
+        "id":  "100008",
+        "name":  "Nina",
+        "variant":  "04",
+        "element":  "Wind",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "100008_04_r05_portrait.webp",
+        "title":  "Spirited Shopkeeper"
+    },
+    {
+        "id":  "100009",
+        "name":  "Zena",
+        "variant":  "07",
+        "element":  "Shadow",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "100009_07_r05_portrait.webp",
+        "title":  "Otherworld Auspex"
+    },
+    {
+        "id":  "100009",
+        "name":  "Gala Zena",
+        "variant":  "08",
+        "element":  "Light",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "100009_08_r05_portrait.webp",
+        "title":  "Unwavering Auspex"
+    },
+    {
+        "id":  "100010",
+        "name":  "Gala Mym",
+        "variant":  "04",
+        "element":  "Flame",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "100010_04_r05_portrait.webp",
+        "title":  "Lovestruck Dragon"
+    },
+    {
+        "id":  "100010",
+        "name":  "Halloween Mym",
+        "variant":  "07",
+        "element":  "Flame",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "100010_07_r05_portrait.webp",
+        "title":  "Dragon Temptress"
+    },
+    {
+        "id":  "100010",
+        "name":  "Summer Mym",
+        "variant":  "10",
+        "element":  "Shadow",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "100010_10_r05_portrait.webp",
+        "title":  "Midsummer Temptress"
+    },
+    {
+        "id":  "100013",
+        "name":  "Gala Leonidas",
+        "variant":  "04",
+        "element":  "Flame",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "100013_04_r05_portrait.webp",
+        "title":  "Lord of the New Path"
+    },
+    {
+        "id":  "100013",
+        "name":  "Summer Leonidas",
+        "variant":  "06",
+        "element":  "Shadow",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "100013_06_r05_portrait.webp",
+        "title":  "Lord of the Summer Sun"
+    },
+    {
+        "id":  "100014",
+        "name":  "Phares",
+        "variant":  "03",
+        "element":  "Wind",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "100014_03_r05_portrait.webp",
+        "title":  "The Dawning Wind"
+    },
+    {
+        "id":  "100015",
+        "name":  "Chelle",
+        "variant":  "04",
+        "element":  "Shadow",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "100015_04_r05_portrait.webp",
+        "title":  "Unrelenting Beauty"
+    },
+    {
+        "id":  "100015",
+        "name":  "Gala Chelle",
+        "variant":  "05",
+        "element":  "Shadow",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "100015_05_r05_portrait.webp",
+        "title":  "Passionate Princess"
+    },
+    {
+        "id":  "100015",
+        "name":  "Summer Chelle",
+        "variant":  "08",
+        "element":  "Light",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "100015_08_r05_portrait.webp",
+        "title":  "Unrelenting Summer Beauty"
+    },
+    {
+        "id":  "100016",
+        "name":  "Valyx",
+        "variant":  "03",
+        "element":  "Light",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "100016_03_r05_portrait.webp",
+        "title":  "The Unbending"
+    },
+    {
+        "id":  "100017",
+        "name":  "Gala Emile",
+        "variant":  "03",
+        "element":  "Water",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "100017_03_r05_portrait.webp",
+        "title":  "Artistry's Pinnacle"
+    },
+    {
+        "id":  "100018",
+        "name":  "Gala Leif",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "100018_02_r05_portrait.webp",
+        "title":  "White Sparrow"
+    },
+    {
+        "id":  "100018",
+        "name":  "Civilian Leif",
+        "variant":  "07",
+        "element":  "Light",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "100018_07_r05_portrait.webp",
+        "title":  "Ambitious Knight"
+    },
+    {
+        "id":  "100019",
+        "name":  "Harle",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "100019_02_r05_portrait.webp",
+        "title":  "The Black Raven"
+    },
+    {
+        "id":  "100029",
+        "name":  "Gala Sarisse",
+        "variant":  "02",
+        "element":  "Flame",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "100029_02_r05_portrait.webp",
+        "title":  "The Crimson Star"
+    },
+    {
+        "id":  "100029",
+        "name":  "Hunter Sarisse",
+        "variant":  "03",
+        "element":  "Water",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "100029_03_r05_portrait.webp",
+        "title":  "Mizutsune Archer"
+    },
+    {
+        "id":  "100029",
+        "name":  "Sharpshooter Sarisse",
+        "variant":  "04",
+        "element":  "Water",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "100029_04_r05_portrait.webp",
+        "title":  "Sylvan Sharpshooter"
+    },
+    {
+        "id":  "100031",
+        "name":  "Alberius",
+        "variant":  "03",
+        "element":  "Shadow",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "100031_03_r05_portrait.webp",
+        "title":  "Dragonblooded Hero"
+    },
+    {
+        "id":  "100032",
+        "name":  "Laxi",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Blade",
+        "rarity":  4,
+        "file":  "100032_01_r04_portrait.webp",
+        "title":  "Dissonant Android"
+    },
+    {
+        "id":  "100032",
+        "name":  "Gala Laxi",
+        "variant":  "04",
+        "element":  "Flame",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "100032_04_r05_portrait.webp",
+        "title":  "Synchronized Android"
+    },
+    {
+        "id":  "100032",
+        "name":  "Halloween Laxi",
+        "variant":  "07",
+        "element":  "Light",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "100032_07_r05_portrait.webp",
+        "title":  "Mischievous Android"
+    },
+    {
+        "id":  "100039",
+        "name":  "Gala Nedrick",
+        "variant":  "03",
+        "element":  "Shadow",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "100039_03_r05_portrait.webp",
+        "title":  "Shadow of Genesis"
+    },
+    {
+        "id":  "100042",
+        "name":  "Gala Gatov",
+        "variant":  "02",
+        "element":  "Flame",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "100042_02_r05_portrait.webp",
+        "title":  "The Blazewolf"
+    },
+    {
+        "id":  "100043",
+        "name":  "Origa",
+        "variant":  "02",
+        "element":  "Water",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "100043_02_r05_portrait.webp",
+        "title":  "Aqueous Auspex"
+    },
+    {
+        "id":  "100044",
+        "name":  "Sheila",
+        "variant":  "02",
+        "element":  "Flame",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "100044_02_r05_portrait.webp",
+        "title":  "Blazing Auspex"
+    },
+    {
+        "id":  "100045",
+        "name":  "Gala Mascula",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "100045_01_r05_portrait.webp",
+        "title":  "Pure-Hearted Android"
+    },
+    {
+        "id":  "100054",
+        "name":  "Gala Zethia",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "100054_01_r05_portrait.webp",
+        "title":  "Auspex of Genesis"
+    },
+    {
+        "id":  "100054",
+        "name":  "Bondforged Zethia",
+        "variant":  "02",
+        "element":  "Light",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "100054_02_r05_portrait.webp",
+        "title":  "Radiant Auspex"
+    },
+    {
+        "id":  "110001",
+        "name":  "Alain",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Lance",
+        "rarity":  3,
+        "file":  "110001_01_r03_portrait.webp",
+        "title":  "Captain Craven"
+    },
+    {
+        "id":  "110002",
+        "name":  "Aoi",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Blade",
+        "rarity":  3,
+        "file":  "110002_01_r03_portrait.webp",
+        "title":  "Impassioned Ninja"
+    },
+    {
+        "id":  "110002",
+        "name":  "Wedding Aoi",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110002_02_r05_portrait.webp",
+        "title":  "Ninja Bride"
+    },
+    {
+        "id":  "110003",
+        "name":  "Joe",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Bow",
+        "rarity":  3,
+        "file":  "110003_01_r03_portrait.webp",
+        "title":  "Fire's Fletcher"
+    },
+    {
+        "id":  "110003",
+        "name":  "Sharpshooter Joe",
+        "variant":  "02",
+        "element":  "Light",
+        "weapon":  "Manacaster",
+        "rarity":  3,
+        "file":  "110003_02_r03_portrait.webp",
+        "title":  "Scorching Sharpshooter"
+    },
+    {
+        "id":  "110004",
+        "name":  "Xania",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Wand",
+        "rarity":  3,
+        "file":  "110004_01_r03_portrait.webp",
+        "title":  "Meandering Mage"
+    },
+    {
+        "id":  "110004",
+        "name":  "Wedding Xania",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Staff",
+        "rarity":  4,
+        "file":  "110004_02_r04_portrait.webp",
+        "title":  "Magical Bride"
+    },
+    {
+        "id":  "110005",
+        "name":  "Renelle",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Dagger",
+        "rarity":  3,
+        "file":  "110005_01_r03_portrait.webp",
+        "title":  "Honorable Treasure Hunter"
+    },
+    {
+        "id":  "110006",
+        "name":  "Aurien",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Staff",
+        "rarity":  3,
+        "file":  "110006_01_r03_portrait.webp",
+        "title":  "Elegant Gambler"
+    },
+    {
+        "id":  "110007",
+        "name":  "Vanessa",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Axe",
+        "rarity":  4,
+        "file":  "110007_01_r04_portrait.webp",
+        "title":  "Red-Haired Warrior"
+    },
+    {
+        "id":  "110007",
+        "name":  "Hunter Vanessa",
+        "variant":  "02",
+        "element":  "Light",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110007_02_r05_portrait.webp",
+        "title":  "Kirin Amazon"
+    },
+    {
+        "id":  "110008",
+        "name":  "Karl",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Sword",
+        "rarity":  4,
+        "file":  "110008_01_r04_portrait.webp",
+        "title":  "Hero of Justice"
+    },
+    {
+        "id":  "110009",
+        "name":  "Sinoa",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Wand",
+        "rarity":  4,
+        "file":  "110009_01_r04_portrait.webp",
+        "title":  "Intrepid Scholar"
+    },
+    {
+        "id":  "110009",
+        "name":  "Summer Sinoa",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110009_02_r05_portrait.webp",
+        "title":  "Seaside Scholar"
+    },
+    {
+        "id":  "110010",
+        "name":  "Mikoto",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110010_01_r05_portrait.webp",
+        "title":  "Nature's Avatar"
+    },
+    {
+        "id":  "110010",
+        "name":  "Summer Mikoto",
+        "variant":  "02",
+        "element":  "Light",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110010_02_r05_portrait.webp",
+        "title":  "Wave-Riding Archer"
+    },
+    {
+        "id":  "110011",
+        "name":  "Ezelith",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110011_01_r05_portrait.webp",
+        "title":  "Genius of the Century"
+    },
+    {
+        "id":  "110011",
+        "name":  "Valentine's Ezelith",
+        "variant":  "02",
+        "element":  "Flame",
+        "weapon":  "Bow",
+        "rarity":  4,
+        "file":  "110011_02_r04_portrait.webp",
+        "title":  "Stunning Sweetheart"
+    },
+    {
+        "id":  "110012",
+        "name":  "Rex",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Axe",
+        "rarity":  3,
+        "file":  "110012_01_r03_portrait.webp",
+        "title":  "Charitable Lumberjack"
+    },
+    {
+        "id":  "110013",
+        "name":  "Waike",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Bow",
+        "rarity":  3,
+        "file":  "110013_01_r03_portrait.webp",
+        "title":  "Noble Thief"
+    },
+    {
+        "id":  "110014",
+        "name":  "Cibella",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Lance",
+        "rarity":  3,
+        "file":  "110014_01_r03_portrait.webp",
+        "title":  "Staunch Avenger"
+    },
+    {
+        "id":  "110015",
+        "name":  "Zardin",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Sword",
+        "rarity":  3,
+        "file":  "110015_01_r03_portrait.webp",
+        "title":  "Hopeless Narcissist"
+    },
+    {
+        "id":  "110015",
+        "name":  "Beautician Zardin",
+        "variant":  "02",
+        "element":  "Light",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110015_02_r05_portrait.webp",
+        "title":  "Brilliant Beautician"
+    },
+    {
+        "id":  "110016",
+        "name":  "Jurota",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Blade",
+        "rarity":  3,
+        "file":  "110016_01_r03_portrait.webp",
+        "title":  "Solemn Stalwart"
+    },
+    {
+        "id":  "110017",
+        "name":  "Ricardt",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Staff",
+        "rarity":  3,
+        "file":  "110017_01_r03_portrait.webp",
+        "title":  "Kindly Coward"
+    },
+    {
+        "id":  "110018",
+        "name":  "Karina",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Axe",
+        "rarity":  4,
+        "file":  "110018_01_r04_portrait.webp",
+        "title":  "Free-Spirited Pirate"
+    },
+    {
+        "id":  "110018",
+        "name":  "Opera Karina",
+        "variant":  "02",
+        "element":  "Shadow",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110018_02_r05_portrait.webp",
+        "title":  "Pirate Opera Prima Donna"
+    },
+    {
+        "id":  "110019",
+        "name":  "Thaniel",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Staff",
+        "rarity":  4,
+        "file":  "110019_01_r04_portrait.webp",
+        "title":  "Shifty Sailor"
+    },
+    {
+        "id":  "110020",
+        "name":  "Luther",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Dagger",
+        "rarity":  4,
+        "file":  "110020_01_r04_portrait.webp",
+        "title":  "Passionate Dancer"
+    },
+    {
+        "id":  "110021",
+        "name":  "Xainfried",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110021_01_r05_portrait.webp",
+        "title":  "Dragon Guardian"
+    },
+    {
+        "id":  "110021",
+        "name":  "Dragonyule Xainfried",
+        "variant":  "03",
+        "element":  "Wind",
+        "weapon":  "Wand",
+        "rarity":  4,
+        "file":  "110021_03_r04_portrait.webp",
+        "title":  "Saint's Aegis"
+    },
+    {
+        "id":  "110022",
+        "name":  "Xander",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110022_01_r05_portrait.webp",
+        "title":  "Born Ruler"
+    },
+    {
+        "id":  "110022",
+        "name":  "Dragonyule Xander",
+        "variant":  "02",
+        "element":  "Water",
+        "weapon":  "Wand",
+        "rarity":  4,
+        "file":  "110022_02_r04_portrait.webp",
+        "title":  "King Starfall"
+    },
+    {
+        "id":  "110023",
+        "name":  "Johanna",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Axe",
+        "rarity":  3,
+        "file":  "110023_01_r03_portrait.webp",
+        "title":  "Untamed Warrioress"
+    },
+    {
+        "id":  "110024",
+        "name":  "Sophie",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Staff",
+        "rarity":  3,
+        "file":  "110024_01_r03_portrait.webp",
+        "title":  "Mana Observer"
+    },
+    {
+        "id":  "110025",
+        "name":  "Nicolas",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Wand",
+        "rarity":  3,
+        "file":  "110025_01_r03_portrait.webp",
+        "title":  "Walking Encyclopedia"
+    },
+    {
+        "id":  "110026",
+        "name":  "Francesca",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Dagger",
+        "rarity":  3,
+        "file":  "110026_01_r03_portrait.webp",
+        "title":  "Cheerful Merchant"
+    },
+    {
+        "id":  "110027",
+        "name":  "Melody",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Blade",
+        "rarity":  3,
+        "file":  "110027_01_r03_portrait.webp",
+        "title":  "Menace of a Maid"
+    },
+    {
+        "id":  "110027",
+        "name":  "Valentine's Melody",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110027_02_r05_portrait.webp",
+        "title":  "Lovestruck Maid"
+    },
+    {
+        "id":  "110028",
+        "name":  "Philia",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Bow",
+        "rarity":  3,
+        "file":  "110028_01_r03_portrait.webp",
+        "title":  "Love Seeker"
+    },
+    {
+        "id":  "110029",
+        "name":  "Aeleen",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Lance",
+        "rarity":  4,
+        "file":  "110029_01_r04_portrait.webp",
+        "title":  "Mercurial Lancer"
+    },
+    {
+        "id":  "110029",
+        "name":  "Nurse Aeleen",
+        "variant":  "02",
+        "element":  "Water",
+        "weapon":  "Staff",
+        "rarity":  4,
+        "file":  "110029_02_r04_portrait.webp",
+        "title":  "Battle-Tested Nurse"
+    },
+    {
+        "id":  "110030",
+        "name":  "Musashi",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Blade",
+        "rarity":  4,
+        "file":  "110030_01_r04_portrait.webp",
+        "title":  "Wandering Samurai"
+    },
+    {
+        "id":  "110031",
+        "name":  "Eleonora",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Bow",
+        "rarity":  4,
+        "file":  "110031_01_r04_portrait.webp",
+        "title":  "Curious Archer"
+    },
+    {
+        "id":  "110032",
+        "name":  "Maribelle",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110032_01_r05_portrait.webp",
+        "title":  "Child of the Forest"
+    },
+    {
+        "id":  "110032",
+        "name":  "Student Maribelle",
+        "variant":  "02",
+        "element":  "Flame",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110032_02_r05_portrait.webp",
+        "title":  "Outgoing Student"
+    },
+    {
+        "id":  "110033",
+        "name":  "Linus",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Axe",
+        "rarity":  3,
+        "file":  "110033_01_r03_portrait.webp",
+        "title":  "Bantam Hero"
+    },
+    {
+        "id":  "110034",
+        "name":  "Malka",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Lance",
+        "rarity":  3,
+        "file":  "110034_01_r03_portrait.webp",
+        "title":  "Golden Armorer"
+    },
+    {
+        "id":  "110035",
+        "name":  "Raemond",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Sword",
+        "rarity":  3,
+        "file":  "110035_01_r03_portrait.webp",
+        "title":  "Loyal Servant"
+    },
+    {
+        "id":  "110036",
+        "name":  "Malora",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Bow",
+        "rarity":  3,
+        "file":  "110036_01_r03_portrait.webp",
+        "title":  "Alluring Sniper"
+    },
+    {
+        "id":  "110036",
+        "name":  "Dragonyule Malora",
+        "variant":  "03",
+        "element":  "Light",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110036_03_r05_portrait.webp",
+        "title":  "Lady Starfall"
+    },
+    {
+        "id":  "110037",
+        "name":  "Irfan",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Dagger",
+        "rarity":  3,
+        "file":  "110037_01_r03_portrait.webp",
+        "title":  "Mammonist Mercenary"
+    },
+    {
+        "id":  "110038",
+        "name":  "Hope",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Staff",
+        "rarity":  3,
+        "file":  "110038_01_r03_portrait.webp",
+        "title":  "Knight at Heart"
+    },
+    {
+        "id":  "110038",
+        "name":  "Templar Hope",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Sword",
+        "rarity":  4,
+        "file":  "110038_02_r04_portrait.webp",
+        "title":  "Budding Templar"
+    },
+    {
+        "id":  "110039",
+        "name":  "Ryozen",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Lance",
+        "rarity":  4,
+        "file":  "110039_01_r04_portrait.webp",
+        "title":  "Dormant Demon"
+    },
+    {
+        "id":  "110040",
+        "name":  "Rawn",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Bow",
+        "rarity":  4,
+        "file":  "110040_01_r04_portrait.webp",
+        "title":  "Wild Hunter"
+    },
+    {
+        "id":  "110041",
+        "name":  "Amane",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Wand",
+        "rarity":  4,
+        "file":  "110041_01_r04_portrait.webp",
+        "title":  "Child of Miracles"
+    },
+    {
+        "id":  "110041",
+        "name":  "Summer Amane",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110041_02_r05_portrait.webp",
+        "title":  "Kitty Cafe's Shining Star"
+    },
+    {
+        "id":  "110042",
+        "name":  "Julietta",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110042_01_r05_portrait.webp",
+        "title":  "Timorous Paladyn"
+    },
+    {
+        "id":  "110042",
+        "name":  "Summer Julietta",
+        "variant":  "02",
+        "element":  "Water",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110042_02_r05_portrait.webp",
+        "title":  "Paladyn in Paradise"
+    },
+    {
+        "id":  "110043",
+        "name":  "Hildegarde",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110043_01_r05_portrait.webp",
+        "title":  "Devout Oracle"
+    },
+    {
+        "id":  "110043",
+        "name":  "Valentine's Hildegarde",
+        "variant":  "02",
+        "element":  "Flame",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110043_02_r05_portrait.webp",
+        "title":  "Rosy Saint"
+    },
+    {
+        "id":  "110044",
+        "name":  "Taro",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Blade",
+        "rarity":  3,
+        "file":  "110044_01_r03_portrait.webp",
+        "title":  "Greenhorn Samurai"
+    },
+    {
+        "id":  "110045",
+        "name":  "Erik",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Axe",
+        "rarity":  3,
+        "file":  "110045_01_r03_portrait.webp",
+        "title":  "Feral Noble"
+    },
+    {
+        "id":  "110046",
+        "name":  "Rodrigo",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Sword",
+        "rarity":  3,
+        "file":  "110046_01_r03_portrait.webp",
+        "title":  "Sincere Giver"
+    },
+    {
+        "id":  "110047",
+        "name":  "Althemia",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Wand",
+        "rarity":  3,
+        "file":  "110047_01_r03_portrait.webp",
+        "title":  "Timid Researcher"
+    },
+    {
+        "id":  "110047",
+        "name":  "Halloween Althemia",
+        "variant":  "02",
+        "element":  "Light",
+        "weapon":  "Staff",
+        "rarity":  4,
+        "file":  "110047_02_r04_portrait.webp",
+        "title":  "Diametric Vampire"
+    },
+    {
+        "id":  "110048",
+        "name":  "Vice",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Dagger",
+        "rarity":  3,
+        "file":  "110048_01_r03_portrait.webp",
+        "title":  "Eager Assassin"
+    },
+    {
+        "id":  "110049",
+        "name":  "Edward",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Staff",
+        "rarity":  3,
+        "file":  "110049_01_r03_portrait.webp",
+        "title":  "Perfect Butler"
+    },
+    {
+        "id":  "110049",
+        "name":  "Halloween Edward",
+        "variant":  "02",
+        "element":  "Light",
+        "weapon":  "Blade",
+        "rarity":  3,
+        "file":  "110049_02_r03_portrait.webp",
+        "title":  "Bloodsucking Butler"
+    },
+    {
+        "id":  "110050",
+        "name":  "Berserker",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Sword",
+        "rarity":  4,
+        "file":  "110050_01_r04_portrait.webp",
+        "title":  "Frenzied Warrior"
+    },
+    {
+        "id":  "110050",
+        "name":  "Hunter Berserker",
+        "variant":  "02",
+        "element":  "Flame",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110050_02_r05_portrait.webp",
+        "title":  "Rathalos Berserker"
+    },
+    {
+        "id":  "110051",
+        "name":  "Kleimann",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Wand",
+        "rarity":  4,
+        "file":  "110051_01_r04_portrait.webp",
+        "title":  "Mad Scientist"
+    },
+    {
+        "id":  "110052",
+        "name":  "Orion",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Dagger",
+        "rarity":  4,
+        "file":  "110052_01_r04_portrait.webp",
+        "title":  "Maiden Protector"
+    },
+    {
+        "id":  "110052",
+        "name":  "Valentine's Orion",
+        "variant":  "03",
+        "element":  "Flame",
+        "weapon":  "Sword",
+        "rarity":  3,
+        "file":  "110052_03_r03_portrait.webp",
+        "title":  "Valentine's Guardian"
+    },
+    {
+        "id":  "110053",
+        "name":  "Nefaria",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110053_01_r05_portrait.webp",
+        "title":  "Queen of the Sands"
+    },
+    {
+        "id":  "110053",
+        "name":  "Dragonyule Nefaria",
+        "variant":  "02",
+        "element":  "Water",
+        "weapon":  "Bow",
+        "rarity":  4,
+        "file":  "110053_02_r04_portrait.webp",
+        "title":  "Queen of Smiles"
+    },
+    {
+        "id":  "110053",
+        "name":  "Incognito Nefaria",
+        "variant":  "03",
+        "element":  "Flame",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110053_03_r05_portrait.webp",
+        "title":  "Yearning Queen"
+    },
+    {
+        "id":  "110054",
+        "name":  "Serena",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Sword",
+        "rarity":  4,
+        "file":  "110054_01_r04_portrait.webp",
+        "title":  "Purehearted Warrior"
+    },
+    {
+        "id":  "110056",
+        "name":  "Yue",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Axe",
+        "rarity":  4,
+        "file":  "110056_01_r04_portrait.webp",
+        "title":  "Hungry Hunter"
+    },
+    {
+        "id":  "110058",
+        "name":  "Jakob",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Lance",
+        "rarity":  3,
+        "file":  "110058_01_r03_portrait.webp",
+        "title":  "Quiet Mercenary"
+    },
+    {
+        "id":  "110059",
+        "name":  "Grace",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110059_01_r05_portrait.webp",
+        "title":  "Wistful Widow"
+    },
+    {
+        "id":  "110059",
+        "name":  "Undercover Grace",
+        "variant":  "02",
+        "element":  "Flame",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110059_02_r05_portrait.webp",
+        "title":  "Expiatory Researcher"
+    },
+    {
+        "id":  "110063",
+        "name":  "Estelle",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Staff",
+        "rarity":  3,
+        "file":  "110063_01_r03_portrait.webp",
+        "title":  "Loving Preacher"
+    },
+    {
+        "id":  "110063",
+        "name":  "Summer Estelle",
+        "variant":  "02",
+        "element":  "Water",
+        "weapon":  "Wand",
+        "rarity":  4,
+        "file":  "110063_02_r04_portrait.webp",
+        "title":  "Beachside Preacher"
+    },
+    {
+        "id":  "110064",
+        "name":  "Yachiyo",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Blade",
+        "rarity":  4,
+        "file":  "110064_01_r04_portrait.webp",
+        "title":  "Peerless Duelist"
+    },
+    {
+        "id":  "110064",
+        "name":  "Armored Yachiyo",
+        "variant":  "02",
+        "element":  "Flame",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110064_02_r05_portrait.webp",
+        "title":  "Resplendent Duelist"
+    },
+    {
+        "id":  "110066",
+        "name":  "Norwin",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Bow",
+        "rarity":  4,
+        "file":  "110066_01_r04_portrait.webp",
+        "title":  "Anguished Author"
+    },
+    {
+        "id":  "110066",
+        "name":  "Summer Norwin",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110066_02_r05_portrait.webp",
+        "title":  "Summer Scribe"
+    },
+    {
+        "id":  "110067",
+        "name":  "Vida",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Dagger",
+        "rarity":  3,
+        "file":  "110067_01_r03_portrait.webp",
+        "title":  "Knife Fanatic"
+    },
+    {
+        "id":  "110252",
+        "name":  "Lily",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110252_01_r05_portrait.webp",
+        "title":  "Crystalian Princess"
+    },
+    {
+        "id":  "110252",
+        "name":  "Dragonyule Lily",
+        "variant":  "02",
+        "element":  "Water",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110252_02_r05_portrait.webp",
+        "title":  "Princess Starfall"
+    },
+    {
+        "id":  "110253",
+        "name":  "Orsem",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Dagger",
+        "rarity":  4,
+        "file":  "110253_01_r04_portrait.webp",
+        "title":  "Dreamer on Ice"
+    },
+    {
+        "id":  "110254",
+        "name":  "Zace",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Lance",
+        "rarity":  3,
+        "file":  "110254_01_r03_portrait.webp",
+        "title":  "Bone Collector"
+    },
+    {
+        "id":  "110255",
+        "name":  "Celliera",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Blade",
+        "rarity":  4,
+        "file":  "110255_01_r04_portrait.webp",
+        "title":  "Hot-Blooded Instructor"
+    },
+    {
+        "id":  "110255",
+        "name":  "Summer Celliera",
+        "variant":  "02",
+        "element":  "Water",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110255_02_r05_portrait.webp",
+        "title":  "Avid Armsmaster"
+    },
+    {
+        "id":  "110256",
+        "name":  "Louise",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110256_01_r05_portrait.webp",
+        "title":  "Doting Sister"
+    },
+    {
+        "id":  "110257",
+        "name":  "Lowen",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Staff",
+        "rarity":  4,
+        "file":  "110257_01_r04_portrait.webp",
+        "title":  "Dependable Brother"
+    },
+    {
+        "id":  "110257",
+        "name":  "Halloween Lowen",
+        "variant":  "02",
+        "element":  "Flame",
+        "weapon":  "Staff",
+        "rarity":  4,
+        "file":  "110257_02_r04_portrait.webp",
+        "title":  "Halloween Prankster"
+    },
+    {
+        "id":  "110258",
+        "name":  "Pietro",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Axe",
+        "rarity":  3,
+        "file":  "110258_01_r03_portrait.webp",
+        "title":  "Visionary Adventurer"
+    },
+    {
+        "id":  "110259",
+        "name":  "Lea",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110259_01_r05_portrait.webp",
+        "title":  "Sublime Swordsman"
+    },
+    {
+        "id":  "110260",
+        "name":  "Emma",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Lance",
+        "rarity":  4,
+        "file":  "110260_01_r04_portrait.webp",
+        "title":  "Encouraging Cheerleader"
+    },
+    {
+        "id":  "110261",
+        "name":  "Marty",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Sword",
+        "rarity":  3,
+        "file":  "110261_01_r03_portrait.webp",
+        "title":  "Top Ruin Explorer"
+    },
+    {
+        "id":  "110262",
+        "name":  "Aldred",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Blade",
+        "rarity":  4,
+        "file":  "110262_01_r04_portrait.webp",
+        "title":  "Wyrmbound Warrior"
+    },
+    {
+        "id":  "110263",
+        "name":  "Ramona",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110263_01_r05_portrait.webp",
+        "title":  "Impassioned Blacksmith"
+    },
+    {
+        "id":  "110264",
+        "name":  "Rena",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110264_01_r05_portrait.webp",
+        "title":  "Mana Infuser"
+    },
+    {
+        "id":  "110265",
+        "name":  "Renee",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Dagger",
+        "rarity":  4,
+        "file":  "110265_01_r04_portrait.webp",
+        "title":  "Future Smithing Genius"
+    },
+    {
+        "id":  "110266",
+        "name":  "Naveed",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110266_01_r05_portrait.webp",
+        "title":  "Suave Lithomancer"
+    },
+    {
+        "id":  "110267",
+        "name":  "Hawk",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110267_01_r05_portrait.webp",
+        "title":  "Twilight Hunter"
+    },
+    {
+        "id":  "110268",
+        "name":  "Lin You",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110268_01_r05_portrait.webp",
+        "title":  "Kung-Fu Apprentice"
+    },
+    {
+        "id":  "110269",
+        "name":  "Verica",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Staff",
+        "rarity":  4,
+        "file":  "110269_01_r04_portrait.webp",
+        "title":  "Guiding Seer"
+    },
+    {
+        "id":  "110269",
+        "name":  "Summer Verica",
+        "variant":  "02",
+        "element":  "Shadow",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110269_02_r05_portrait.webp",
+        "title":  "Beach Beauty"
+    },
+    {
+        "id":  "110270",
+        "name":  "Melsa",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Dagger",
+        "rarity":  4,
+        "file":  "110270_01_r04_portrait.webp",
+        "title":  "Resolute Friend"
+    },
+    {
+        "id":  "110270",
+        "name":  "Halloween Melsa",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110270_02_r05_portrait.webp",
+        "title":  "Spirited Corpse"
+    },
+    {
+        "id":  "110271",
+        "name":  "Linnea",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110271_01_r05_portrait.webp",
+        "title":  "Taciturn Warrior"
+    },
+    {
+        "id":  "110272",
+        "name":  "Forte",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110272_01_r05_portrait.webp",
+        "title":  "Lord of the Skies"
+    },
+    {
+        "id":  "110274",
+        "name":  "Albert",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110274_01_r05_portrait.webp",
+        "title":  "Thunderswift Lord"
+    },
+    {
+        "id":  "110275",
+        "name":  "Annelie",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110275_01_r05_portrait.webp",
+        "title":  "The Sugary Star"
+    },
+    {
+        "id":  "110276",
+        "name":  "Fritz",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Dagger",
+        "rarity":  4,
+        "file":  "110276_01_r04_portrait.webp",
+        "title":  "Dagger Magnificence"
+    },
+    {
+        "id":  "110277",
+        "name":  "Felicia",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Staff",
+        "rarity":  4,
+        "file":  "110277_01_r04_portrait.webp",
+        "title":  "Captivating Dancer"
+    },
+    {
+        "id":  "110280",
+        "name":  "Heinwald",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110280_01_r05_portrait.webp",
+        "title":  "Seeker of Truth"
+    },
+    {
+        "id":  "110281",
+        "name":  "Curran",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110281_01_r05_portrait.webp",
+        "title":  "Dogged Inquisitor"
+    },
+    {
+        "id":  "110281",
+        "name":  "Yukata Curran",
+        "variant":  "02",
+        "element":  "Light",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110281_02_r05_portrait.webp",
+        "title":  "Festival Inquisitor"
+    },
+    {
+        "id":  "110285",
+        "name":  "Grimnir",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110285_01_r05_portrait.webp",
+        "title":  "The Mad Cyclone"
+    },
+    {
+        "id":  "110291",
+        "name":  "Marth",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110291_01_r05_portrait.webp",
+        "title":  "Altean Prince"
+    },
+    {
+        "id":  "110295",
+        "name":  "Valerio",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110295_01_r05_portrait.webp",
+        "title":  "Dutiful Chef"
+    },
+    {
+        "id":  "110296",
+        "name":  "Mitsuba",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110296_01_r05_portrait.webp",
+        "title":  "Hinomotoan Chef"
+    },
+    {
+        "id":  "110296",
+        "name":  "Forager Mitsuba",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110296_02_r05_portrait.webp",
+        "title":  "Foraging Chef"
+    },
+    {
+        "id":  "110299",
+        "name":  "Xuan Zang",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Lance",
+        "rarity":  4,
+        "file":  "110299_01_r04_portrait.webp",
+        "title":  "Erudite Sealer"
+    },
+    {
+        "id":  "110299",
+        "name":  "Radiant Xuan Zang",
+        "variant":  "02",
+        "element":  "Light",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110299_02_r05_portrait.webp",
+        "title":  "Radiant Sealer"
+    },
+    {
+        "id":  "110300",
+        "name":  "Pipple",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Wand",
+        "rarity":  4,
+        "file":  "110300_01_r04_portrait.webp",
+        "title":  "Sentient Vegetable"
+    },
+    {
+        "id":  "110301",
+        "name":  "Odetta",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Sword",
+        "rarity":  4,
+        "file":  "110301_01_r04_portrait.webp",
+        "title":  "Wanderlust Incarnate"
+    },
+    {
+        "id":  "110301",
+        "name":  "Halloween Odetta",
+        "variant":  "02",
+        "element":  "Water",
+        "weapon":  "Sword",
+        "rarity":  4,
+        "file":  "110301_02_r04_portrait.webp",
+        "title":  "Wandering Spider"
+    },
+    {
+        "id":  "110302",
+        "name":  "Pia",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Lance",
+        "rarity":  4,
+        "file":  "110302_01_r04_portrait.webp",
+        "title":  "Budding Vocalist"
+    },
+    {
+        "id":  "110302",
+        "name":  "Housekeeper Pia",
+        "variant":  "04",
+        "element":  "Water",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110302_04_r05_portrait.webp",
+        "title":  "Small Singing Helper"
+    },
+    {
+        "id":  "110303",
+        "name":  "Elias",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Bow",
+        "rarity":  4,
+        "file":  "110303_01_r04_portrait.webp",
+        "title":  "Divine Voice"
+    },
+    {
+        "id":  "110304",
+        "name":  "Vixel",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Staff",
+        "rarity":  4,
+        "file":  "110304_01_r04_portrait.webp",
+        "title":  "Musical Maestro"
+    },
+    {
+        "id":  "110305",
+        "name":  "Lucretia",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110305_01_r05_portrait.webp",
+        "title":  "Songstress of the Century"
+    },
+    {
+        "id":  "110306",
+        "name":  "Bellina",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110306_01_r05_portrait.webp",
+        "title":  "Renegade Spitfire"
+    },
+    {
+        "id":  "110307",
+        "name":  "Victor",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110307_01_r05_portrait.webp",
+        "title":  "Vengeful Commander"
+    },
+    {
+        "id":  "110307",
+        "name":  "Dragonyule Victor",
+        "variant":  "02",
+        "element":  "Shadow",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110307_02_r05_portrait.webp",
+        "title":  "Festive Commander"
+    },
+    {
+        "id":  "110310",
+        "name":  "Addis",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Blade",
+        "rarity":  4,
+        "file":  "110310_01_r04_portrait.webp",
+        "title":  "Noble Warrior"
+    },
+    {
+        "id":  "110310",
+        "name":  "Valentine's Addis",
+        "variant":  "02",
+        "element":  "Shadow",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110310_02_r05_portrait.webp",
+        "title":  "Devoted Samurai"
+    },
+    {
+        "id":  "110311",
+        "name":  "Sazanka",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Axe",
+        "rarity":  4,
+        "file":  "110311_01_r04_portrait.webp",
+        "title":  "Cultured Flower"
+    },
+    {
+        "id":  "110312",
+        "name":  "Botan",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Lance",
+        "rarity":  4,
+        "file":  "110312_01_r04_portrait.webp",
+        "title":  "Naginata Cutie"
+    },
+    {
+        "id":  "110313",
+        "name":  "Ieyasu",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110313_01_r05_portrait.webp",
+        "title":  "Leader of the Boar Clan"
+    },
+    {
+        "id":  "110313",
+        "name":  "Summer Ieyasu",
+        "variant":  "03",
+        "element":  "Water",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110313_03_r05_portrait.webp",
+        "title":  "Summertime Boar"
+    },
+    {
+        "id":  "110314",
+        "name":  "Su Fang",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Dagger",
+        "rarity":  4,
+        "file":  "110314_01_r04_portrait.webp",
+        "title":  "Pyroblossom Artisan"
+    },
+    {
+        "id":  "110315",
+        "name":  "Ku Hai",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Sword",
+        "rarity":  4,
+        "file":  "110315_01_r04_portrait.webp",
+        "title":  "Rambling Blade"
+    },
+    {
+        "id":  "110316",
+        "name":  "Xiao Lei",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Wand",
+        "rarity":  3,
+        "file":  "110316_01_r03_portrait.webp",
+        "title":  "Boundless Arithmetician"
+    },
+    {
+        "id":  "110317",
+        "name":  "Laranoa",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110317_01_r05_portrait.webp",
+        "title":  "Lighthearted Leader"
+    },
+    {
+        "id":  "110318",
+        "name":  "Sylas",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110318_01_r05_portrait.webp",
+        "title":  "Adept Aromatherapist"
+    },
+    {
+        "id":  "110318",
+        "name":  "Halloween Sylas",
+        "variant":  "02",
+        "element":  "Shadow",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110318_02_r05_portrait.webp",
+        "title":  "Enchanting Aromatherapist"
+    },
+    {
+        "id":  "110319",
+        "name":  "Fleur",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Dagger",
+        "rarity":  4,
+        "file":  "110319_01_r04_portrait.webp",
+        "title":  "Budding Artist"
+    },
+    {
+        "id":  "110322",
+        "name":  "Zhu Bajie",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110322_01_r05_portrait.webp",
+        "title":  "Indebted General"
+    },
+    {
+        "id":  "110323",
+        "name":  "Sha Wujing",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Lance",
+        "rarity":  4,
+        "file":  "110323_01_r04_portrait.webp",
+        "title":  "Deadly Tactician"
+    },
+    {
+        "id":  "110324",
+        "name":  "Wu Kong",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110324_01_r05_portrait.webp",
+        "title":  "Rookie Sealer"
+    },
+    {
+        "id":  "110325",
+        "name":  "Yaten",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110325_01_r05_portrait.webp",
+        "title":  "Wandering Festival Planner"
+    },
+    {
+        "id":  "110326",
+        "name":  "Natalie",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110326_01_r05_portrait.webp",
+        "title":  "Devoted Festival Protégé"
+    },
+    {
+        "id":  "110327",
+        "name":  "Alfonse",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110327_01_r05_portrait.webp",
+        "title":  "Prince of Askr"
+    },
+    {
+        "id":  "110328",
+        "name":  "Fjorm",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110328_01_r05_portrait.webp",
+        "title":  "Princess of Ice"
+    },
+    {
+        "id":  "110333",
+        "name":  "Veronica",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110333_01_r05_portrait.webp",
+        "title":  "Emblian Princess"
+    },
+    {
+        "id":  "110334",
+        "name":  "Audric",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Sword",
+        "rarity":  4,
+        "file":  "110334_01_r04_portrait.webp",
+        "title":  "Atoning King"
+    },
+    {
+        "id":  "110334",
+        "name":  "Gala Audric",
+        "variant":  "02",
+        "element":  "Light",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110334_02_r05_portrait.webp",
+        "title":  "The Paternal King"
+    },
+    {
+        "id":  "110335",
+        "name":  "Patia",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Lance",
+        "rarity":  4,
+        "file":  "110335_01_r04_portrait.webp",
+        "title":  "Spirited Sparrow"
+    },
+    {
+        "id":  "110335",
+        "name":  "Summer Patia",
+        "variant":  "02",
+        "element":  "Shadow",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110335_02_r05_portrait.webp",
+        "title":  "Seaside Sparrow"
+    },
+    {
+        "id":  "110336",
+        "name":  "Delphi",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110336_01_r05_portrait.webp",
+        "title":  "Tutelary Successor"
+    },
+    {
+        "id":  "110337",
+        "name":  "Cassandra",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110337_01_r05_portrait.webp",
+        "title":  "Sorrowful Royal Magician"
+    },
+    {
+        "id":  "110337",
+        "name":  "Yukata Cassandra",
+        "variant":  "03",
+        "element":  "Flame",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110337_03_r05_portrait.webp",
+        "title":  "Summer Sorceress"
+    },
+    {
+        "id":  "110340",
+        "name":  "Noelle",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Wand",
+        "rarity":  4,
+        "file":  "110340_01_r04_portrait.webp",
+        "title":  "Meek Messenger"
+    },
+    {
+        "id":  "110340",
+        "name":  "Formal Noelle",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110340_02_r05_portrait.webp",
+        "title":  "Bridge Builder"
+    },
+    {
+        "id":  "110341",
+        "name":  "Akasha",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110341_01_r05_portrait.webp",
+        "title":  "Pursuer of Knowledge"
+    },
+    {
+        "id":  "110341",
+        "name":  "Halloween Akasha",
+        "variant":  "03",
+        "element":  "Water",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110341_03_r05_portrait.webp",
+        "title":  "Bloodthirsty One"
+    },
+    {
+        "id":  "110342",
+        "name":  "Chelsea",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110342_01_r05_portrait.webp",
+        "title":  "Obvious Admirer"
+    },
+    {
+        "id":  "110342",
+        "name":  "Valentine's Chelsea",
+        "variant":  "03",
+        "element":  "Wind",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110342_03_r05_portrait.webp",
+        "title":  "Cloying Clingy Admirer"
+    },
+    {
+        "id":  "110343",
+        "name":  "Durant",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Blade",
+        "rarity":  4,
+        "file":  "110343_01_r04_portrait.webp",
+        "title":  "Blood-Covered Mad Dog"
+    },
+    {
+        "id":  "110344",
+        "name":  "Yuya",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Dagger",
+        "rarity":  4,
+        "file":  "110344_01_r04_portrait.webp",
+        "title":  "Rebellious Rider"
+    },
+    {
+        "id":  "110345",
+        "name":  "Mitsuhide",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110345_01_r05_portrait.webp",
+        "title":  "Leader of the Mouse Clan"
+    },
+    {
+        "id":  "110345",
+        "name":  "Summer Mitsuhide",
+        "variant":  "03",
+        "element":  "Flame",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110345_03_r05_portrait.webp",
+        "title":  "Summertime Mouse"
+    },
+    {
+        "id":  "110346",
+        "name":  "Nobunaga",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110346_01_r05_portrait.webp",
+        "title":  "Leader of the Horse Clan"
+    },
+    {
+        "id":  "110347",
+        "name":  "Chitose",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Wand",
+        "rarity":  4,
+        "file":  "110347_01_r04_portrait.webp",
+        "title":  "Cuteness Incarnate"
+    },
+    {
+        "id":  "110348",
+        "name":  "Hanabusa",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Blade",
+        "rarity":  4,
+        "file":  "110348_01_r04_portrait.webp",
+        "title":  "Hinomotoan Dancer"
+    },
+    {
+        "id":  "110349",
+        "name":  "Lathna",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110349_01_r05_portrait.webp",
+        "title":  "Chaos Child"
+    },
+    {
+        "id":  "110349",
+        "name":  "Yukata Lathna",
+        "variant":  "04",
+        "element":  "Wind",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110349_04_r05_portrait.webp",
+        "title":  "Midsummer Nightmare"
+    },
+    {
+        "id":  "110350",
+        "name":  "Joachim",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Bow",
+        "rarity":  4,
+        "file":  "110350_01_r04_portrait.webp",
+        "title":  "Hidden Hunter"
+    },
+    {
+        "id":  "110350",
+        "name":  "Formal Joachim",
+        "variant":  "02",
+        "element":  "Wind",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "110350_02_r05_portrait.webp",
+        "title":  "Resolved Hunter"
+    },
+    {
+        "id":  "110351",
+        "name":  "Jiang Ziya",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110351_01_r05_portrait.webp",
+        "title":  "Quirky Qilin"
+    },
+    {
+        "id":  "110352",
+        "name":  "Tobias",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110352_01_r05_portrait.webp",
+        "title":  "Faithful Knight"
+    },
+    {
+        "id":  "110352",
+        "name":  "Faeblessed Tobias",
+        "variant":  "03",
+        "element":  "Water",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110352_03_r05_portrait.webp",
+        "title":  "Winged Knight"
+    },
+    {
+        "id":  "110353",
+        "name":  "Kirsty",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110353_01_r05_portrait.webp",
+        "title":  "Rebellious Commander"
+    },
+    {
+        "id":  "110354",
+        "name":  "Mega Man",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110354_01_r05_portrait.webp",
+        "title":  "Kindly Android"
+    },
+    {
+        "id":  "110355",
+        "name":  "Lazry",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110355_01_r05_portrait.webp",
+        "title":  "Mechanized Blacksmith"
+    },
+    {
+        "id":  "110356",
+        "name":  "Gauld",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Lance",
+        "rarity":  4,
+        "file":  "110356_01_r04_portrait.webp",
+        "title":  "Bloodfist"
+    },
+    {
+        "id":  "110357",
+        "name":  "Nadine",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110357_01_r05_portrait.webp",
+        "title":  "Selfie Addict"
+    },
+    {
+        "id":  "110358",
+        "name":  "Sharena",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110358_01_r05_portrait.webp",
+        "title":  "Princess of Askr"
+    },
+    {
+        "id":  "110359",
+        "name":  "Chrom",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110359_01_r05_portrait.webp",
+        "title":  "Prince of Ylisse"
+    },
+    {
+        "id":  "110360",
+        "name":  "Tiki",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110360_01_r05_portrait.webp",
+        "title":  "Dragon Scion"
+    },
+    {
+        "id":  "110361",
+        "name":  "Peony",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110361_01_r05_portrait.webp",
+        "title":  "Sweet Dream"
+    },
+    {
+        "id":  "110362",
+        "name":  "Yurius",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110362_01_r05_portrait.webp",
+        "title":  "Ravenous Researcher"
+    },
+    {
+        "id":  "110363",
+        "name":  "Eugene",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110363_01_r05_portrait.webp",
+        "title":  "Sullen Youth"
+    },
+    {
+        "id":  "110364",
+        "name":  "Catherine",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110364_01_r05_portrait.webp",
+        "title":  "Perfect Flower"
+    },
+    {
+        "id":  "110365",
+        "name":  "Nevin",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110365_01_r05_portrait.webp",
+        "title":  "The Wing of Revelation"
+    },
+    {
+        "id":  "110365",
+        "name":  "Dragonyule Nevin",
+        "variant":  "03",
+        "element":  "Wind",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110365_03_r05_portrait.webp",
+        "title":  "The Wintry Wing of Revelation"
+    },
+    {
+        "id":  "110366",
+        "name":  "Pinon",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110366_01_r05_portrait.webp",
+        "title":  "The Wing of Purity"
+    },
+    {
+        "id":  "110367",
+        "name":  "Ilia",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "110367_01_r05_portrait.webp",
+        "title":  "Flawless Alchemist"
+    },
+    {
+        "id":  "110367",
+        "name":  "Dragonyule Ilia",
+        "variant":  "03",
+        "element":  "Flame",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "110367_03_r05_portrait.webp",
+        "title":  "Blessed Alchemist"
+    },
+    {
+        "id":  "110368",
+        "name":  "Meene",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110368_01_r05_portrait.webp",
+        "title":  "Motherly Faerie"
+    },
+    {
+        "id":  "110369",
+        "name":  "Mordecai",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110369_01_r05_portrait.webp",
+        "title":  "Innocent Being"
+    },
+    {
+        "id":  "110370",
+        "name":  "Lapis",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "110370_01_r05_portrait.webp",
+        "title":  "The Blue Rose"
+    },
+    {
+        "id":  "110371",
+        "name":  "Pecorine",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110371_01_r05_portrait.webp",
+        "title":  "Peckish Princess"
+    },
+    {
+        "id":  "110374",
+        "name":  "Kuzunoha",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110374_01_r05_portrait.webp",
+        "title":  "Outfoxed Fox"
+    },
+    {
+        "id":  "110375",
+        "name":  "Seimei",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110375_01_r05_portrait.webp",
+        "title":  "Leader of the Ox Clan"
+    },
+    {
+        "id":  "110376",
+        "name":  "Yoshitsune",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "110376_01_r05_portrait.webp",
+        "title":  "Leader of the Rooster Clan"
+    },
+    {
+        "id":  "110377",
+        "name":  "Joker",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110377_01_r05_portrait.webp",
+        "title":  "Rebellion Incarnate"
+    },
+    {
+        "id":  "110378",
+        "name":  "Panther",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110378_01_r05_portrait.webp",
+        "title":  "Dancing Panther"
+    },
+    {
+        "id":  "110379",
+        "name":  "Mona",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110379_01_r05_portrait.webp",
+        "title":  "Feline Guide"
+    },
+    {
+        "id":  "110380",
+        "name":  "Sophie (Persona)",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110380_01_r05_portrait.webp",
+        "title":  "Humanity's Companion"
+    },
+    {
+        "id":  "110381",
+        "name":  "Ryszarda",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110381_01_r05_portrait.webp",
+        "title":  "The Wing of Enlightenment"
+    },
+    {
+        "id":  "110382",
+        "name":  "Faris",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "110382_01_r05_portrait.webp",
+        "title":  "The Wing of Righteousness"
+    },
+    {
+        "id":  "110383",
+        "name":  "Finni",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110383_01_r05_portrait.webp",
+        "title":  "Emotional Android"
+    },
+    {
+        "id":  "110384",
+        "name":  "Eirene",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "110384_01_r05_portrait.webp",
+        "title":  "Rational Android"
+    },
+    {
+        "id":  "110385",
+        "name":  "Humanoid Mercury",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110385_01_r05_portrait.webp",
+        "title":  "Teacher from the Tides"
+    },
+    {
+        "id":  "110386",
+        "name":  "Myriam",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110386_01_r05_portrait.webp",
+        "title":  "Secret Admirer"
+    },
+    {
+        "id":  "110387",
+        "name":  "Humanoid Midgardsormr",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110387_01_r05_portrait.webp",
+        "title":  "Hero of Storms"
+    },
+    {
+        "id":  "110388",
+        "name":  "Vania",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110388_01_r05_portrait.webp",
+        "title":  "Vampire Princess"
+    },
+    {
+        "id":  "110389",
+        "name":  "Saiga",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "110389_01_r05_portrait.webp",
+        "title":  "Sinful Marksman"
+    },
+    {
+        "id":  "110391",
+        "name":  "Isaac",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Bow",
+        "rarity":  5,
+        "file":  "110391_01_r05_portrait.webp",
+        "title":  "Guardsman of the Verdure"
+    },
+    {
+        "id":  "110392",
+        "name":  "Nino",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Sword",
+        "rarity":  5,
+        "file":  "110392_01_r05_portrait.webp",
+        "title":  "Inheritor of the Wing"
+    },
+    {
+        "id":  "110393",
+        "name":  "Farren",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Dagger",
+        "rarity":  5,
+        "file":  "110393_01_r05_portrait.webp",
+        "title":  "Synced Wyrmbinder"
+    },
+    {
+        "id":  "110394",
+        "name":  "Cecile",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "110394_01_r05_portrait.webp",
+        "title":  "Disgraced Knight"
+    },
+    {
+        "id":  "110395",
+        "name":  "Regina",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110395_01_r05_portrait.webp",
+        "title":  "Commander of Five Wings"
+    },
+    {
+        "id":  "110396",
+        "name":  "Sandalphon",
+        "variant":  "01",
+        "element":  "Water",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110396_01_r05_portrait.webp",
+        "title":  "Angel of Information"
+    },
+    {
+        "id":  "110397",
+        "name":  "Basileus",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Wand",
+        "rarity":  5,
+        "file":  "110397_01_r05_portrait.webp",
+        "title":  "The Wing of War"
+    },
+    {
+        "id":  "110398",
+        "name":  "Humanoid Jupiter",
+        "variant":  "01",
+        "element":  "Light",
+        "weapon":  "Blade",
+        "rarity":  5,
+        "file":  "110398_01_r05_portrait.webp",
+        "title":  "Capricious Luminary"
+    },
+    {
+        "id":  "110399",
+        "name":  "Ayaha & Otoha",
+        "variant":  "01",
+        "element":  "Flame",
+        "weapon":  "Staff",
+        "rarity":  5,
+        "file":  "110399_01_r05_portrait.webp",
+        "title":  "Twin Wings of Freedom"
+    },
+    {
+        "id":  "110401",
+        "name":  "Shingen",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Axe",
+        "rarity":  5,
+        "file":  "110401_01_r05_portrait.webp",
+        "title":  "Leader of the Tiger Clan"
+    },
+    {
+        "id":  "110402",
+        "name":  "Yukimura",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110402_01_r05_portrait.webp",
+        "title":  "Leader of the Monkey Clan"
+    },
+    {
+        "id":  "110403",
+        "name":  "Izumo",
+        "variant":  "01",
+        "element":  "Wind",
+        "weapon":  "Lance",
+        "rarity":  5,
+        "file":  "110403_01_r05_portrait.webp",
+        "title":  "Emissary of Amaterasu"
+    },
+    {
+        "id":  "110404",
+        "name":  "Humanoid Zodiark",
+        "variant":  "01",
+        "element":  "Shadow",
+        "weapon":  "Manacaster",
+        "rarity":  5,
+        "file":  "110404_01_r05_portrait.webp",
+        "title":  "Embracing Shadow"
+    }
+]

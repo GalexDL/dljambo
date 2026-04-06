@@ -1,0 +1,1130 @@
+[
+  {
+    "id": "20030101",
+    "name": "Homura",
+    "title": null,
+    "element": "Flame",
+    "rarity": 3,
+    "file": "210021_01_portrait.webp"
+  },
+  {
+    "id": "20030102",
+    "name": "Cinder Drake",
+    "title": null,
+    "element": "Flame",
+    "rarity": 3,
+    "file": "210022_01_portrait.webp"
+  },
+  {
+    "id": "20030103",
+    "name": "Kindling Imp",
+    "title": null,
+    "element": "Flame",
+    "rarity": 3,
+    "file": "210023_01_portrait.webp"
+  },
+  {
+    "id": "20030201",
+    "name": "Fubuki",
+    "title": null,
+    "element": "Water",
+    "rarity": 3,
+    "file": "210059_01_portrait.webp"
+  },
+  {
+    "id": "20030202",
+    "name": "Snow Drake",
+    "title": null,
+    "element": "Water",
+    "rarity": 3,
+    "file": "210063_01_portrait.webp"
+  },
+  {
+    "id": "20030203",
+    "name": "Wellspring Imp",
+    "title": null,
+    "element": "Water",
+    "rarity": 3,
+    "file": "210067_01_portrait.webp"
+  },
+  {
+    "id": "20030301",
+    "name": "Tsumuji",
+    "title": null,
+    "element": "Wind",
+    "rarity": 3,
+    "file": "210060_01_portrait.webp"
+  },
+  {
+    "id": "20030302",
+    "name": "Gust Drake",
+    "title": null,
+    "element": "Wind",
+    "rarity": 3,
+    "file": "210064_01_portrait.webp"
+  },
+  {
+    "id": "20030303",
+    "name": "Zephyr Imp",
+    "title": null,
+    "element": "Wind",
+    "rarity": 3,
+    "file": "210068_01_portrait.webp"
+  },
+  {
+    "id": "20030401",
+    "name": "Hinata",
+    "title": null,
+    "element": "Light",
+    "rarity": 3,
+    "file": "210061_01_portrait.webp"
+  },
+  {
+    "id": "20030402",
+    "name": "Moon Drake",
+    "title": null,
+    "element": "Light",
+    "rarity": 3,
+    "file": "210065_01_portrait.webp"
+  },
+  {
+    "id": "20030403",
+    "name": "Astral Imp",
+    "title": null,
+    "element": "Light",
+    "rarity": 3,
+    "file": "210069_01_portrait.webp"
+  },
+  {
+    "id": "20030501",
+    "name": "Hikage",
+    "title": null,
+    "element": "Shadow",
+    "rarity": 3,
+    "file": "210062_01_portrait.webp"
+  },
+  {
+    "id": "20030502",
+    "name": "Gloom Drake",
+    "title": null,
+    "element": "Shadow",
+    "rarity": 3,
+    "file": "210066_01_portrait.webp"
+  },
+  {
+    "id": "20030503",
+    "name": "Pallid Imp",
+    "title": null,
+    "element": "Shadow",
+    "rarity": 3,
+    "file": "210070_01_portrait.webp"
+  },
+  {
+    "id": "20040101",
+    "name": "Brunhilda",
+    "title": "Crimson Sweetheart",
+    "element": "Flame",
+    "rarity": 4,
+    "file": "210002_01_portrait.webp"
+  },
+  {
+    "id": "20040102",
+    "name": "Phoenix",
+    "title": "Bewitching Immortal",
+    "element": "Flame",
+    "rarity": 4,
+    "file": "210006_01_portrait.webp"
+  },
+  {
+    "id": "20040103",
+    "name": "Ifrit",
+    "title": "Ferocious Fighter",
+    "element": "Flame",
+    "rarity": 4,
+    "file": "210007_01_portrait.webp"
+  },
+  {
+    "id": "20040201",
+    "name": "Mercury",
+    "title": "Aquatic Guardian",
+    "element": "Water",
+    "rarity": 4,
+    "file": "210003_01_portrait.webp"
+  },
+  {
+    "id": "20040202",
+    "name": "Poliʻahu",
+    "title": "Placid Guide",
+    "element": "Water",
+    "rarity": 4,
+    "file": "210008_01_portrait.webp"
+  },
+  {
+    "id": "20040203",
+    "name": "Vodyanoy",
+    "title": "Ephemeral One",
+    "element": "Water",
+    "rarity": 4,
+    "file": "210058_01_portrait.webp"
+  },
+  {
+    "id": "20040301",
+    "name": "Midgardsormr",
+    "title": "Stormbound Ally",
+    "element": "Wind",
+    "rarity": 4,
+    "file": "210001_01_portrait.webp"
+  },
+  {
+    "id": "20040302",
+    "name": "Roc",
+    "title": "Grand Mercenary",
+    "element": "Wind",
+    "rarity": 4,
+    "file": "210050_01_portrait.webp"
+  },
+  {
+    "id": "20040303",
+    "name": "Stribog",
+    "title": "Ancient Knight",
+    "element": "Wind",
+    "rarity": 4,
+    "file": "210011_01_portrait.webp"
+  },
+  {
+    "id": "20040401",
+    "name": "Jupiter",
+    "title": "Capricious Scamp",
+    "element": "Light",
+    "rarity": 4,
+    "file": "210004_01_portrait.webp"
+  },
+  {
+    "id": "20040402",
+    "name": "Unicorn",
+    "title": "Arbiter of Purity",
+    "element": "Light",
+    "rarity": 4,
+    "file": "210012_01_portrait.webp"
+  },
+  {
+    "id": "20040403",
+    "name": "Lindworm",
+    "title": "Seeker of Beauty",
+    "element": "Light",
+    "rarity": 4,
+    "file": "210013_01_portrait.webp"
+  },
+  {
+    "id": "20040405",
+    "name": "Silke",
+    "title": "Festive Prankster",
+    "element": "Light",
+    "rarity": 4,
+    "file": "210075_01_portrait.webp"
+  },
+  {
+    "id": "20040501",
+    "name": "Zodiark",
+    "title": "Accursed Vessel",
+    "element": "Shadow",
+    "rarity": 4,
+    "file": "210005_01_portrait.webp"
+  },
+  {
+    "id": "20040502",
+    "name": "Juggernaut",
+    "title": "Violent Brute",
+    "element": "Shadow",
+    "rarity": 4,
+    "file": "210014_01_portrait.webp"
+  },
+  {
+    "id": "20040503",
+    "name": "Silke",
+    "title": "Friend Eternal",
+    "element": "Shadow",
+    "rarity": 4,
+    "file": "210015_01_portrait.webp"
+  },
+  {
+    "id": "20040504",
+    "name": "Bronze Fafnir",
+    "title": "Bronze Buddy",
+    "element": "Shadow",
+    "rarity": 4,
+    "file": "210089_01_portrait.webp"
+  },
+  {
+    "id": "20040505",
+    "name": "Silver Fafnir",
+    "title": "Silver Sidekick",
+    "element": "Shadow",
+    "rarity": 4,
+    "file": "210090_01_portrait.webp"
+  },
+  {
+    "id": "20050101",
+    "name": "Agni",
+    "title": "Rapacious Firelord",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210016_01_portrait.webp"
+  },
+  {
+    "id": "20050102",
+    "name": "High Brunhilda",
+    "title": "Crimson Companion",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210039_01_portrait.webp"
+  },
+  {
+    "id": "20050103",
+    "name": "Pele",
+    "title": "Faithful Vassal",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210057_01_portrait.webp"
+  },
+  {
+    "id": "20050104",
+    "name": "Cerberus",
+    "title": "Underworld Gatekeeper",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210024_01_portrait.webp"
+  },
+  {
+    "id": "20050105",
+    "name": "Erasmus",
+    "title": "Azure Beacon",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210055_01_portrait.webp"
+  },
+  {
+    "id": "20050106",
+    "name": "Prometheus",
+    "title": "Reclusive Flame",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210052_01_portrait.webp"
+  },
+  {
+    "id": "20050107",
+    "name": "Konohana Sakuya",
+    "title": "Blossoming Beauty",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210082_01_portrait.webp"
+  },
+  {
+    "id": "20050108",
+    "name": "Arctos",
+    "title": "Fiery Coach",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210030_01_portrait.webp"
+  },
+  {
+    "id": "20050109",
+    "name": "Apollo",
+    "title": "Burning Sun",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210103_01_portrait.webp"
+  },
+  {
+    "id": "20050110",
+    "name": "Kagutsuchi",
+    "title": "Incandescent General",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210107_01_portrait.webp"
+  },
+  {
+    "id": "20050111",
+    "name": "Rathalos",
+    "title": "King of the Skies",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210121_01_portrait.webp"
+  },
+  {
+    "id": "20050112",
+    "name": "Dreadking Rathalos",
+    "title": "Dreadking",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210122_01_portrait.webp"
+  },
+  {
+    "id": "20050113",
+    "name": "Mars",
+    "title": "Forbidden Flamebringer",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "200009_01_portrait.webp"
+  },
+  {
+    "id": "20050114",
+    "name": "Horus",
+    "title": "Flame-Winged Ruler",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210124_01_portrait.webp"
+  },
+  {
+    "id": "20050115",
+    "name": "Mini Brunhilda",
+    "title": "First & Last",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210133_01_portrait.webp"
+  },
+  {
+    "id": "20050116",
+    "name": "Gozu Tenno",
+    "title": "Hard-Faced Softy",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210136_01_portrait.webp"
+  },
+  {
+    "id": "20050117",
+    "name": "Agni",
+    "title": "Greedy Encroaching Flame",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210147_01_portrait.webp"
+  },
+  {
+    "id": "20050118",
+    "name": "Uriel",
+    "title": "Angel of Judgment",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210163_01_portrait.webp"
+  },
+  {
+    "id": "20050119",
+    "name": "Primal Brunhilda",
+    "title": "Awakened Flamewyrm",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210177_01_portrait.webp"
+  },
+  {
+    "id": "20050201",
+    "name": "Poseidon",
+    "title": "Ocean Voyager",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210025_01_portrait.webp"
+  },
+  {
+    "id": "20050202",
+    "name": "Mercury",
+    "title": "Compassionate Soul",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210040_01_portrait.webp"
+  },
+  {
+    "id": "20050203",
+    "name": "Leviathan",
+    "title": "Ruler of the Seas",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210017_01_portrait.webp"
+  },
+  {
+    "id": "20050204",
+    "name": "Siren",
+    "title": "Spellbinding Singer",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210054_01_portrait.webp"
+  },
+  {
+    "id": "20050205",
+    "name": "Jeanne d'Arc",
+    "title": "Defender of Dragonyule",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210076_01_portrait.webp"
+  },
+  {
+    "id": "20050206",
+    "name": "Peng Lai",
+    "title": "Earthen Emancipator",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210079_01_portrait.webp"
+  },
+  {
+    "id": "20050207",
+    "name": "Simurgh",
+    "title": "Caring Mother",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210081_01_portrait.webp"
+  },
+  {
+    "id": "20050208",
+    "name": "Maritimus",
+    "title": "The People's Magician",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210097_01_portrait.webp"
+  },
+  {
+    "id": "20050209",
+    "name": "Kamuy",
+    "title": "Guardian Wolf",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210109_01_portrait.webp"
+  },
+  {
+    "id": "20050210",
+    "name": "Nimis",
+    "title": "Gluttonous Gourmand",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210053_01_portrait.webp"
+  },
+  {
+    "id": "20050211",
+    "name": "Gaibhne & Creidhne",
+    "title": "Delightful Dreamer",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210120_01_portrait.webp"
+  },
+  {
+    "id": "20050212",
+    "name": "Styx",
+    "title": "Mischievous Guardian",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210130_01_portrait.webp"
+  },
+  {
+    "id": "20050213",
+    "name": "Poseidon",
+    "title": "Courageous Seafarer",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210134_01_portrait.webp"
+  },
+  {
+    "id": "20050214",
+    "name": "Gabriel",
+    "title": "Blessed Angel",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210145_01_portrait.webp"
+  },
+  {
+    "id": "20050215",
+    "name": "Mini Mercury",
+    "title": "Mama to All",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210146_01_portrait.webp"
+  },
+  {
+    "id": "20050216",
+    "name": "Marishiten",
+    "title": "Beachside Dawn Dragon",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210156_01_portrait.webp"
+  },
+  {
+    "id": "20050217",
+    "name": "Beast Ciella",
+    "title": "Wings of Judgment",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210167_01_portrait.webp"
+  },
+  {
+    "id": "20050301",
+    "name": "Zephyr",
+    "title": "Adulated Protector",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210018_01_portrait.webp"
+  },
+  {
+    "id": "20050302",
+    "name": "High Midgardsormr",
+    "title": "Conductor of Storms",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210038_01_portrait.webp"
+  },
+  {
+    "id": "20050303",
+    "name": "Sylvia",
+    "title": "Guardian of the Wood",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210010_01_portrait.webp"
+  },
+  {
+    "id": "20050304",
+    "name": "Garuda",
+    "title": "Prideful Gale",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210036_01_portrait.webp"
+  },
+  {
+    "id": "20050305",
+    "name": "Long Long",
+    "title": "Kung-Fu Master",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210080_01_portrait.webp"
+  },
+  {
+    "id": "20050306",
+    "name": "Pazuzu",
+    "title": "Calamitous Typhoon",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210026_01_portrait.webp"
+  },
+  {
+    "id": "20050307",
+    "name": "Yulong",
+    "title": "Celestial Steed",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210074_01_portrait.webp"
+  },
+  {
+    "id": "20050308",
+    "name": "Freyja",
+    "title": "Harvest Goddess",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210084_01_portrait.webp"
+  },
+  {
+    "id": "20050309",
+    "name": "Vayu",
+    "title": "Violent Gale",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210098_01_portrait.webp"
+  },
+  {
+    "id": "20050310",
+    "name": "Mini Midgardsormr",
+    "title": "Tiny Typhoon",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210111_01_portrait.webp"
+  },
+  {
+    "id": "20050311",
+    "name": "Hastur",
+    "title": "The Whisperer in Darkness",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210105_01_portrait.webp"
+  },
+  {
+    "id": "20050312",
+    "name": "AC-011 Garland",
+    "title": "Revolutionary Warrior",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210117_01_portrait.webp"
+  },
+  {
+    "id": "20050313",
+    "name": "Ariel",
+    "title": "Lion of the Goddess",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210116_01_portrait.webp"
+  },
+  {
+    "id": "20050314",
+    "name": "Konohana Sakuya",
+    "title": "Beachside Flower",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210125_01_portrait.webp"
+  },
+  {
+    "id": "20050315",
+    "name": "Primal Midgardsormr",
+    "title": "Primal Stormbearer",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210131_01_portrait.webp"
+  },
+  {
+    "id": "20050316",
+    "name": "Gala Zephyr",
+    "title": "Guardian of the Plains",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210143_01_portrait.webp"
+  },
+  {
+    "id": "20050317",
+    "name": "Menoetius",
+    "title": "Raging Wind",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210137_01_portrait.webp"
+  },
+  {
+    "id": "20050318",
+    "name": "Rose Queen",
+    "title": "Solitary Rose",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210152_01_portrait.webp"
+  },
+  {
+    "id": "20050319",
+    "name": "Beast Volk",
+    "title": "Fangs of the Fangless",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210161_01_portrait.webp"
+  },
+  {
+    "id": "20050320",
+    "name": "Fudo Myo-o",
+    "title": "Unwavering Guardian",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210169_01_portrait.webp"
+  },
+  {
+    "id": "20050321",
+    "name": "Michael",
+    "title": "Angel of Lost Souls",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210168_01_portrait.webp"
+  },
+  {
+    "id": "20050401",
+    "name": "Jeanne d'Arc",
+    "title": "Standard Bearer",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210020_01_portrait.webp"
+  },
+  {
+    "id": "20050402",
+    "name": "High Jupiter",
+    "title": "Radiant Hedonist",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210041_01_portrait.webp"
+  },
+  {
+    "id": "20050403",
+    "name": "Corsaint Phoenix",
+    "title": "Holy Regenerant",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210056_01_portrait.webp"
+  },
+  {
+    "id": "20050404",
+    "name": "Gilgamesh",
+    "title": "Supreme Ruler",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210048_01_portrait.webp"
+  },
+  {
+    "id": "20050405",
+    "name": "Cupid",
+    "title": "Love's Messenger",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210049_01_portrait.webp"
+  },
+  {
+    "id": "20050406",
+    "name": "Shishimai",
+    "title": "Fortune Bringer",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210078_01_portrait.webp"
+  },
+  {
+    "id": "20050407",
+    "name": "Liger",
+    "title": "King of the Big Top",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210043_01_portrait.webp"
+  },
+  {
+    "id": "20050408",
+    "name": "Takemikazuchi",
+    "title": "Unrivaled Wrestler",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210051_01_portrait.webp"
+  },
+  {
+    "id": "20050409",
+    "name": "Siren",
+    "title": "Seaside Songstress",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210094_01_portrait.webp"
+  },
+  {
+    "id": "20050410",
+    "name": "Daikokuten",
+    "title": "Exalted Mouse",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210110_01_portrait.webp"
+  },
+  {
+    "id": "20050411",
+    "name": "Tie Shan Gongzhu",
+    "title": "Ravishing Rakshesha",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210085_01_portrait.webp"
+  },
+  {
+    "id": "20050412",
+    "name": "Thor",
+    "title": "The Fulminator",
+    "element": "Light",
+    "rarity": 5,
+    "file": "200018_01_portrait.webp"
+  },
+  {
+    "id": "20050413",
+    "name": "Lumière Pandora",
+    "title": "Box-of-Hope Bearer",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210142_01_portrait.webp"
+  },
+  {
+    "id": "20050414",
+    "name": "Gala Jeanne d'Arc",
+    "title": "Sacred Standard Bearer",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210144_01_portrait.webp"
+  },
+  {
+    "id": "20050415",
+    "name": "Raphael",
+    "title": "Grace-Granting Angel",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210154_01_portrait.webp"
+  },
+  {
+    "id": "20050416",
+    "name": "Cat Sìth",
+    "title": "Mischievous Feline",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210158_01_portrait.webp"
+  },
+  {
+    "id": "20050417",
+    "name": "Mini Jupiter",
+    "title": "The Most Handsome Boy",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210166_01_portrait.webp"
+  },
+  {
+    "id": "20050418",
+    "name": "Chronos Nyx",
+    "title": "Sovereign of Time",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210164_01_portrait.webp"
+  },
+  {
+    "id": "20050419",
+    "name": "Elysium",
+    "title": "Custodian of the World",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210173_01_portrait.webp"
+  },
+  {
+    "id": "20050501",
+    "name": "Nidhogg",
+    "title": "Death's Reveler",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210019_01_portrait.webp"
+  },
+  {
+    "id": "20050502",
+    "name": "High Zodiark",
+    "title": "Lord of Shadow",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210042_01_portrait.webp"
+  },
+  {
+    "id": "20050504",
+    "name": "Phantom",
+    "title": "Gruesome Specter",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210045_01_portrait.webp"
+  },
+  {
+    "id": "20050505",
+    "name": "Maritimus",
+    "title": "Beloved Mascot",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210072_01_portrait.webp"
+  },
+  {
+    "id": "20050506",
+    "name": "Marishiten",
+    "title": "Dawning Dragon",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210077_01_portrait.webp"
+  },
+  {
+    "id": "20050507",
+    "name": "Gold Fafnir",
+    "title": "Gold Gentleman",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210091_01_portrait.webp"
+  },
+  {
+    "id": "20050508",
+    "name": "Nyarlathotep",
+    "title": "Crawling Chaos",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210046_01_portrait.webp"
+  },
+  {
+    "id": "20050509",
+    "name": "Shinobi",
+    "title": "Ancestral Ninja",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210087_01_portrait.webp"
+  },
+  {
+    "id": "20050510",
+    "name": "Chthonius",
+    "title": "Devoted Dragon",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "200010_01_portrait.webp"
+  },
+  {
+    "id": "20050511",
+    "name": "Parallel Zodiark",
+    "title": "Aberrant Shadow",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210095_01_portrait.webp"
+  },
+  {
+    "id": "20050512",
+    "name": "Ebisu",
+    "title": "Sunbathing Feline",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210114_01_portrait.webp"
+  },
+  {
+    "id": "20050513",
+    "name": "Fatalis",
+    "title": "The Black Dragon",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210123_01_portrait.webp"
+  },
+  {
+    "id": "20050514",
+    "name": "Epimetheus",
+    "title": "Forsaken Brother",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210112_01_portrait.webp"
+  },
+  {
+    "id": "20050515",
+    "name": "Mini Zodiark",
+    "title": "Little Slice of Awkward",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210127_01_portrait.webp"
+  },
+  {
+    "id": "20050516",
+    "name": "Andromeda",
+    "title": "Liberated Aid",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210115_01_portrait.webp"
+  },
+  {
+    "id": "20050517",
+    "name": "Barbatos",
+    "title": "Wyrmbound Dragon",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210083_01_portrait.webp"
+  },
+  {
+    "id": "20050518",
+    "name": "Azazel",
+    "title": "Winged Rebel",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210126_01_portrait.webp"
+  },
+  {
+    "id": "20050519",
+    "name": "Gala Cat Sìth",
+    "title": "Capricious Feline",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "200017_01_portrait.webp"
+  },
+  {
+    "id": "20050520",
+    "name": "Ramiel",
+    "title": "Angelic Herald",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210132_01_portrait.webp"
+  },
+  {
+    "id": "20050521",
+    "name": "Giovanni",
+    "title": "Ark of Music",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210135_01_portrait.webp"
+  },
+  {
+    "id": "20050522",
+    "name": "Arsène",
+    "title": "Pillager of Twilight",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210138_01_portrait.webp"
+  },
+  {
+    "id": "20050523",
+    "name": "High Chthonius",
+    "title": "Eternal Dreamer",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210148_01_portrait.webp"
+  },
+  {
+    "id": "20050524",
+    "name": "Gala Nidhogg",
+    "title": "Observer of Life and Death",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210155_01_portrait.webp"
+  },
+  {
+    "id": "20050525",
+    "name": "Bahamut",
+    "title": "Imposing Wings of Black",
+    "element": "Shadow",
+    "rarity": 5,
+    "file": "210162_01_portrait.webp"
+  },
+  {
+    "id": "29900006",
+    "name": "Divine Dragon",
+    "title": "Dragon Scion",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210093_01_portrait.webp"
+  },
+  {
+    "id": "29900011",
+    "name": "Carmen",
+    "title": "Dancing Panther",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210149_01_portrait.webp"
+  },
+  {
+    "id": "29900012",
+    "name": "Zorro",
+    "title": "Feline Guide",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210150_01_portrait.webp"
+  },
+  {
+    "id": "29900013",
+    "name": "Pithos",
+    "title": "Humanity's Companion",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210151_01_portrait.webp"
+  },
+  {
+    "id": "29900014",
+    "name": "Notte Metamorphosis",
+    "title": "Eternal Partner",
+    "element": "Wind",
+    "rarity": 5,
+    "file": "210153_01_portrait.webp"
+  },
+  {
+    "id": "29900017",
+    "name": "Heavenly Wings",
+    "title": "Angel of Information",
+    "element": "Water",
+    "rarity": 5,
+    "file": "210165_01_portrait.webp"
+  },
+  {
+    "id": "29900018",
+    "name": "Kimono Notte Metamorphosis",
+    "title": "Celebrating Cutie",
+    "element": "Light",
+    "rarity": 5,
+    "file": "210170_01_portrait.webp"
+  },
+  {
+    "id": "29900023",
+    "name": "Beast Form Ayaha & Otoha",
+    "title": "Twin Wings of Freedom",
+    "element": "Flame",
+    "rarity": 5,
+    "file": "210178_01_portrait.webp"
+  }
+]

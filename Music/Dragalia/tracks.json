@@ -1,0 +1,56 @@
+[
+  {
+    "album": "DAOKO × Dragalia Lost",
+    "cover": "Dragalia/Daoko_Album/cover.webp",
+    "background": "Dragalia/Daoko_Album/bg.webp",
+    "tracks": [
+      { "title": "a n n i v e r s a r y",                                    "file": "Dragalia/Daoko_Album/1-01. a n n i v e r s a r y.opus" },
+      { "title": "In an Unending World",                                    "file": "Dragalia/Daoko_Album/1-02. In an Unending World.opus" },
+      { "title": "Kibouno Oto",                                       "file": "Dragalia/Daoko_Album/1-03. The Sound of Hope.opus" },
+      { "title": "ShibuyaK (Instrumental)",                                 "file": "Dragalia/Daoko_Album/1-04. ShibuyaK (Instrumental).opus" },
+      { "title": "Ryuuseitoshi",                                             "file": "Dragalia/Daoko_Album/1-05. Meteor City.opus" },
+      { "title": "「Bokurano Network」",                                             "file": "Dragalia/Daoko_Album/1-06. Our Network.opus" },
+      { "title": "BANG!",                                                   "file": "Dragalia/Daoko_Album/1-07. BANG!.opus" },
+      { "title": "Cinderella Step",                                         "file": "Dragalia/Daoko_Album/1-08. Cinderella Step.opus" },
+      { "title": "Moshimo Bokura-Ga Game No-Shuyakude (Instrumental)",    "file": "Dragalia/Daoko_Album/1-09. If we are the main characters of GAME (Instrumental).opus" },
+      { "title": "ShibuyaK ~Zodiark Battle Remix~",                "file": "Dragalia/Daoko_Album/1-10. The Sound of Hope ~Zodiark Battle Remix~.opus" },
+      { "title": "CRASHER",                                                 "file": "Dragalia/Daoko_Album/1-11. CRASHER.opus" },
+      { "title": "Yumeutsutsu",                                                "file": "Dragalia/Daoko_Album/1-12. Dreaming.opus" },
+      { "title": "ShibuyaK (Live Instrumental)",                            "file": "Dragalia/Daoko_Album/1-13. ShibuyaK (Live Instrumental).opus" },
+      { "title": "Onisan Kochira",                                     "file": "Dragalia/Daoko_Album/1-14. Over Here, Oni-san!.opus" },
+      { "title": "DRIVE",                                                   "file": "Dragalia/Daoko_Album/1-15. DRIVE.opus" },
+      { "title": "Aketara",                                   "file": "Dragalia/Daoko_Album/1-16. New Year's First Dawn.opus" },
+      { "title": "24h (feat. 神山羊)",                              "file": "Dragalia/Daoko_Album/1-17. 24h (feat. Yoh Kamiayama).opus" },
+      { "title": "Fire Emblem Main Theme (ver. Heroes)",                    "file": "Dragalia/Daoko_Album/1-18. Fire Emblem Main Theme (ver. Heroes).opus" },
+      { "title": "Hi Sense Paisen",                                          "file": "Dragalia/Daoko_Album/2-01. High-Sense Man.opus" },
+      { "title": "dream kit",                                               "file": "Dragalia/Daoko_Album/2-02. dream kit.opus" },
+      { "title": "Utopia",                                                  "file": "Dragalia/Daoko_Album/2-03. Utopia.opus" },
+      { "title": "overture ~HELL Remix~",                                   "file": "Dragalia/Daoko_Album/2-04. overture ~HELL Remix~.opus" },
+      { "title": "Across The World",                                        "file": "Dragalia/Daoko_Album/2-05. Across The World.opus" }
+    ]
+  },
+  {
+    "album": "DL Song Collection (DISK 1)",
+    "cover": "Dragalia/SongCollection_Album/cover.webp",
+    "background": "Dragalia/SongCollection_Album/bg.webp",
+    "tracks": [
+      { "title": "Get up",                                          "file": "Dragalia/SongCollection_Album/Disk1/01 Get up.opus" },
+      { "title": "Dawn Song",                                       "file": "Dragalia/SongCollection_Album/Disk1/02 Dawn Song.opus" },
+      { "title": "Force your way",                                  "file": "Dragalia/SongCollection_Album/Disk1/03 Force your way.opus" },
+      { "title": "Bon Fever",                                       "file": "Dragalia/SongCollection_Album/Disk1/04 Bon Fever.opus" },
+      { "title": "ステルスダンス",                                   "file": "Dragalia/SongCollection_Album/Disk1/05 ステルスダンス.opus" },
+      { "title": "CHECKMATE",                                       "file": "Dragalia/SongCollection_Album/Disk1/06 CHECKMATE.opus" },
+      { "title": "case i",                                          "file": "Dragalia/SongCollection_Album/Disk1/07 case i.opus" },
+      { "title": "We Are The Lights",                               "file": "Dragalia/SongCollection_Album/Disk1/08 We Are The Lights.opus" },
+      { "title": "Rainbow Riders",                                  "file": "Dragalia/SongCollection_Album/Disk1/09 Rainbow Riders.opus" },
+      { "title": "Rainbow Riders (Battle Arrange ver.)",            "file": "Dragalia/SongCollection_Album/Disk1/10 Rainbow Riders (Battle Arrange ver.).opus" },
+      { "title": "Maybe In The Next Life",                          "file": "Dragalia/SongCollection_Album/Disk1/11 Maybe In The Next Life.opus" },
+      { "title": "Maybe In The Next Life ()",           "file": "Dragalia/SongCollection_Album/Disk1/12 Maybe In The Next Life.opus" },
+      { "title": "Terrestrial paradise",                            "file": "Dragalia/SongCollection_Album/Disk1/13 Terrestrial paradise.opus" },
+      { "title": "Hollow Dance",                                    "file": "Dragalia/SongCollection_Album/Disk1/14 Hollow Dance.opus" },
+      { "title": "Because of You",                                  "file": "Dragalia/SongCollection_Album/Disk1/15 Because of You.opus" },
+      { "title": "Sample Answer",                                   "file": "Dragalia/SongCollection_Album/Disk1/16 Sample Answer.opus" }
+    ]
+  }
+]
+
