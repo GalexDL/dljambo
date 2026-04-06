@@ -44,12 +44,38 @@
       { "title": "We Are The Lights",                               "file": "Dragalia/SongCollection_Album/Disk1/08 We Are The Lights.opus" },
       { "title": "Rainbow Riders",                                  "file": "Dragalia/SongCollection_Album/Disk1/09 Rainbow Riders.opus" },
       { "title": "Rainbow Riders (Battle Arrange ver.)",            "file": "Dragalia/SongCollection_Album/Disk1/10 Rainbow Riders (Battle Arrange ver.).opus" },
-      { "title": "Maybe In The Next Life",                          "file": "Dragalia/SongCollection_Album/Disk1/11 Maybe In The Next Life.opus" },
-      { "title": "Maybe In The Next Life ()",           "file": "Dragalia/SongCollection_Album/Disk1/12 Maybe In The Next Life.opus" },
+      { "title": "Maybe In The Next Life (Lapis)",                          "file": "Dragalia/SongCollection_Album/Disk1/11 Maybe In The Next Life.opus" },
+      { "title": "Maybe In The Next Life (Karina)",           "file": "Dragalia/SongCollection_Album/Disk1/12 Maybe In The Next Life.opus" },
       { "title": "Terrestrial paradise",                            "file": "Dragalia/SongCollection_Album/Disk1/13 Terrestrial paradise.opus" },
       { "title": "Hollow Dance",                                    "file": "Dragalia/SongCollection_Album/Disk1/14 Hollow Dance.opus" },
       { "title": "Because of You",                                  "file": "Dragalia/SongCollection_Album/Disk1/15 Because of You.opus" },
       { "title": "Sample Answer",                                   "file": "Dragalia/SongCollection_Album/Disk1/16 Sample Answer.opus" }
+    ]
+  },
+  {
+    "album": "Lucrezia Debut",
+    "cover": "Dragalia/Lucrezia_Album/cover.webp",
+    "background": "Dragalia/Lucrezia_Album/bg.webp",
+    "tracks": [
+      { "title": "Kaede",                                          "file": "Dragalia/Lucrezia_Album/Kaede.opus" },
+      { "title": "Blurry",                                       "file": "Dragalia/Lucrezia_Album/Blurry.opus" },
+      { "title": "Overture",                                   "file": "Dragalia/Lucrezia_Album/Overture.opus" }
+    ]
+  },
+  {
+    "album": "Across the World",
+    "cover": "Dragalia/Siren1_Album/cover.webp",
+    "background": "Dragalia/Siren1_Album/bg.webp",
+    "tracks": [
+      { "title": "Poralis",                                   "file": "Dragalia/Siren1_Album/Poralis.opus" }
+    ]
+  },
+  {
+    "album": "Across the World",
+    "cover": "Dragalia/Siren2_Album/cover.webp",
+    "background": "Dragalia/Siren2_Album/bg.webp",
+    "tracks": [
+      { "title": "Singing in the Rain",                                   "file": "Dragalia/Siren2_Album/Singing_In_The_Rain.opus" }
     ]
   }
 ]
